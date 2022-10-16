@@ -174,9 +174,18 @@ html {
   transition: all 0.5s 0.9s;
 }
 
-.sarhne{
+.linkedin{
   transition: all 0.5s 1.1s;
 }
+
+.github{
+  transition: all 0.5s 1.3s;
+}
+
+.sarhne{
+  transition: all 0.5s 1.6s;
+}
+
 
 .change .card-social {
   transform: translateY(0);
@@ -210,6 +219,14 @@ html {
   background-color: #31A8E0;
 }
 
+.linkedin .icon-wrapper {
+  background-color: #0A66CE;
+}
+
+.github .icon-wrapper {
+  background-color: #000;
+}
+
 .sarhne .icon-wrapper {
   background-color: #F1776C;
 }
@@ -239,7 +256,15 @@ html {
 }
 
 .telegram h4{
-  color: #31A8E0;#F1776C
+  color: #31A8E0;
+}
+
+.linkedin h4{
+  color: #0A66CE;
+}
+
+.github h4{
+  color: #000;
 }
 
 .sarhne h4{
