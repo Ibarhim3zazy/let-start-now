@@ -174,16 +174,20 @@ html {
   transition: all 0.5s 0.9s;
 }
 
-.linkedin{
+.facebook{
   transition: all 0.5s 1.1s;
 }
 
-.github{
+.linkedin{
   transition: all 0.5s 1.3s;
 }
 
-.sarhne{
+.github{
   transition: all 0.5s 1.6s;
+}
+
+.sarhne{
+  transition: all 0.5s 1.9s;
 }
 
 
@@ -217,6 +221,10 @@ html {
 
 .telegram .icon-wrapper {
   background-color: #31A8E0;
+}
+
+.facebook .icon-wrapper {
+  background-color: #087CEA;
 }
 
 .linkedin .icon-wrapper {
@@ -257,6 +265,10 @@ html {
 
 .telegram h4{
   color: #31A8E0;
+}
+
+.facebook h4{
+  color: #087CEA;
 }
 
 .linkedin h4{

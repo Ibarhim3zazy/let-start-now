@@ -15,7 +15,10 @@ function Ibrahim_sarhne() {
 }
 function Ibrahim_telegram() {
   window.open('https://t.me/Ibrahim3zazy');
-}https://github.com/Ibarhim3zazy
+}
+function Ibrahim_facebook() {
+  window.open('https://web.facebook.com/Ibrahim3zazy/');
+}
 function Ibrahim_linkedin() {
   window.open('https://www.linkedin.com/in/ibrahim-3zazy-90a678204');
 }
