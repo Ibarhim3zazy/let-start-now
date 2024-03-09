@@ -1,8 +1,8 @@
-document.querySelector(".card-btn").addEventListener("click", () => {
+  document.querySelector(".card-btn").addEventListener("click", () => {
   document.querySelector(".container").classList.toggle("change");
 });
 function Ibrahim_mail() {
-  window.open('mailto:Ibrahim3zazy@gmail.com?subject=تبرعات');
+  window.open('mailto:ebrahim3zazy@gmail.com');
 }
 function Ibrahim_messenger() {
   window.open('http://m.me/.Ibrahim3zazy');
