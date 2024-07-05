@@ -24,6 +24,7 @@ html {
   background-color: #45a564;
   padding: 3rem 3rem 8rem 3rem;
   display: flex;
+  flex-wrap: wrap;
   border-radius: 0.5rem 0.5rem 0 0;
   position: relative;
   z-index: 100;
@@ -58,6 +59,32 @@ html {
 
 .person-info p {
   font-size: 1.8rem;
+}
+
+.card-cv {
+  background-color: #fff;
+  width: 100%;
+  padding: 20px;
+  border-radius: 10px;
+  margin-top: 10px;
+  text-decoration: none;
+  color: #000;
+  font-size: 20px;
+  font-weight: bold;
+  text-align: center;
+  box-shadow: 0 0.3rem 0.8rem rgba(0, 0, 0, 0.3);
+  outline: none;
+  cursor: pointer;
+  transition: all 0.5s;
+}
+
+.card-cv:hover {
+  background-color: #2196F3;
+  color: #fff;
+}
+
+.card-cv-icon-download {
+  margin-right: 5px;
 }
 
 .card-btn {
