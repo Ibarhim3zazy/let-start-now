@@ -179,10 +179,13 @@ html {
   border-radius: 0.3rem;
   display: flex;
   align-items: center;
-  cursor: pointer;
   transform: translateY(-50%);
   opacity: 0;
   visibility: hidden;
+}
+
+.card-social * {
+  cursor: pointer;
 }
 
 .email {
