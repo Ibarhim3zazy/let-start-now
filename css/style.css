@@ -48,6 +48,7 @@ html {
   font-family: "Dosis", serif;
   color: #fff;
   text-shadow: 0 0.1rem 0.2rem rgba(0, 0, 0, 0.3);
+  text-wrap: nowrap;
 }
 
 .person-info h3 {
